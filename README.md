@@ -20,6 +20,7 @@ pipenv shell
 ## Structure
 
 Each day's challenge is contained in its own directory (`day01/`, `day02/`, etc.) with the following files:
+
 - `dayXX.py` - Solution code
 - `dayXX.dat` - Puzzle input
 - `dayXX_example_part1.dat` - Example input for part 1
@@ -27,7 +28,7 @@ Each day's challenge is contained in its own directory (`day01/`, `day02/`, etc.
 
 ## Progress
 
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4

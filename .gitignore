@@ -43,3 +43,6 @@ Thumbs.db
 
 # Pipenv
 .venv
+
+# Claude Code
+.claude/

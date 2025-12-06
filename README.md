@@ -33,7 +33,7 @@ Each day's challenge is contained in its own directory (`day01/`, `day02/`, etc.
 - [x] Day 3
 - [x] Day 4
 - [x] Day 5
-- [ ] Day 6
+- [x] Day 6
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
